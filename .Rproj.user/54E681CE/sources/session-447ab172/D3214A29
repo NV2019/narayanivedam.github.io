@@ -3,7 +3,7 @@
     "path": "~/narayanivedam.github.io/teaching.qmd",
     "project_path": "teaching.qmd",
     "type": "quarto_markdown",
-    "hash": "3925738384",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1686393811903.0,
@@ -18,7 +18,8 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "51:0"
+        "rmdVisualModeLocation": "51:0",
+        "docOutlineSize": "110"
     },
     "folds": "",
     "lastKnownWriteTime": 1686394220,
