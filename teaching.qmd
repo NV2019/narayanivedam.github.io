@@ -5,47 +5,47 @@ title: "Teaching Assistance"
 
 <br>
 
-1. **Mathematical Methods for Aerospace Engineers,**
+1.  **Mathematical Methods for Aerospace Engineers,**
 
-    Taught by Professor [**Kartik             Venkataraman**](http://aero.iisc.ac.in/people/kartik-venkatraman/),
+    Taught by Professor [**Kartik Venkataraman**](http://aero.iisc.ac.in/people/kartik-venkatraman/),
 
-    Indian Institute of Science,	
+    Indian Institute of Science,
 
     August 2017 - December 2017.
 
 <br>
 
-2. **Robust and Optimal Control,**
+2.  **Robust and Optimal Control,**
 
     Taught by Professor [**Shankar P Bhattacharyya**](https://people.engr.tamu.edu/spb/index.html),
 
     Texas A&M University, College Station,
 
     January 2015 - May 2015.
-    
+
 <br>
 
-3. **Control Systems Laboratory,**
+3.  **Control Systems Laboratory,**
 
     Taught by Professor [**Shankar P Bhattacharyya**](https://people.engr.tamu.edu/spb/index.html),
 
     Texas A&M University, College Station,
 
     August 2014 - December 2014.
-    
+
 <br>
 
-4. **Classical Control Systems,**
+4.  **Classical Control Systems,**
 
     Taught by Professor [**Shankar P Bhattacharyya**](https://people.engr.tamu.edu/spb/index.html),
 
     Texas A&M University, College Station,
 
     September 2013 - January 2014.
-    
+
 <br>
 
-5. **Linear Control Systems,**
+5.  **Linear Control Systems,**
 
     Taught by Professor [**Shankar P Bhattacharyya**](https://people.engr.tamu.edu/spb/index.html),
 

@@ -5,198 +5,198 @@ title: "Course-work"
 
 <br>
 
-- **Topics in Computation over Networks (E2 334)**
-    
+-   **Topics in Computation over Networks (E2 334)**
+
     Taught by Professor [Parimal Parag](https://ece.iisc.ac.in/~parimal/index.html),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     January 2019 - May 2019
-    
+
     [Syllabus](https://ece.iisc.ac.in/~parimal/2019/statphy.html)
 
 <br>
 
-- **Switched Systems (CP 211, Audit)**
+-   **Switched Systems (CP 211, Audit)**
 
     Taught by Professor [Atreyee Kundu](http://www.facweb.iitkgp.ac.in/~atreyee/),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     January 2018 - May 2018
 
 <br>
 
-- **Topics in Statistical Methods (E2 231)**
-    
+-   **Topics in Statistical Methods (E2 231)**
+
     Taught by Professor [Chandramani Singh](https://faculty.dese.iisc.ac.in/chandramani/),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     January 2018 - May 2018
 
 <br>
 
-- **Game Theory (E1 254, Audit)**
+-   **Game Theory (E1 254, Audit)**
 
     Taught by Professors [Yadati Narahari](https://gtl.csa.iisc.ac.in/hari/) and [Siddharth Barman](https://www.csa.iisc.ac.in/~barman/#publications),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     January 2017 - May 2017
-    
+
     [Syllabus](https://gtl.csa.iisc.ac.in/gametheory/lecture.html)
 
 <br>
 
-- **Dynamics of Linear Systems (E1 241)**
-    
+-   **Dynamics of Linear Systems (E1 241)**
+
     Taught by Professor [Prasanta Kumar Ghosh](https://eecs.iisc.ac.in/people/prasanta-kumar-ghosh/),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     August 2016 - December 2016,
-    
+
     [Syllabus](https://ee.iisc.ac.in/~prasantg/e1241_dls_aug2016.html)
 
 <br>
 
-- **Guidance Theory and Applications (AE 271)**
+-   **Guidance Theory and Applications (AE 271)**
 
     Taught by Professor [Debasish Ghose](https://aero.iisc.ac.in/people/debasish-ghose/),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     January 2016 - May 2016,
-    
-    [Syllabus](http://aero.iisc.ac.in/academics/teaching/courses-3/), 
-    
+
+    [Syllabus](http://aero.iisc.ac.in/academics/teaching/courses-3/),
+
     [Project: Salvo_Attack](https://github.com/NV2019/AE_271_Salvo_Attack.git)
 
 <br>
 
-- **Applied Optimal Control and State Estimation (AE 372)**
+-   **Applied Optimal Control and State Estimation (AE 372)**
 
     Taught by Professor [Radhakant Padhi](http://aero.iisc.ac.in/people/radhakantpadhi/),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     January 2016 - May 2016,
-    
-    [Syllabus](http://aero.iisc.ac.in/academics/teaching/courses-3/), 
-    
+
+    [Syllabus](http://aero.iisc.ac.in/academics/teaching/courses-3/),
+
     [Project: Cooperative_Control](https://github.com/NV2019/AE_372_Cooperative_Control.git)
 
 <br>
 
-- **Cooperative Control with Aerospace Applications (AE 373)**
+-   **Cooperative Control with Aerospace Applications (AE 373)**
 
     Guidance of Professor [Debasish Ghose](https://aero.iisc.ac.in/people/debasish-ghose/),
-    
-    Indian Institute of Science, 
-    
+
+    Indian Institute of Science,
+
     January 2016 - May 2016,
-    
+
     [Syllabus](http://aero.iisc.ac.in/academics/teaching/courses-3/)
 
 <br>
 
-- **Modern Control of Aerospace Systems (AERO 625)**
+-   **Modern Control of Aerospace Systems (AERO 625)**
 
     Taught by Professor [John Valasek](https://vscl.tamu.edu/people/john-valasek/),
-    
+
     Texas A&M University, College Station,
-    
+
     August 2014 - December 2014,
-    
-    [Syllabus](https://vscl.tamu.edu/about-us-2/courses/), 
-    
+
+    [Syllabus](https://vscl.tamu.edu/about-us-2/courses/),
+
     [Project: Platooning](https://github.com/NV2019/AERO_625_Platooning.git)
 
 <br>
 
-- **Optimization for Electrical and Computer Engineering Applications (ECEN 754)**
-    
+-   **Optimization for Electrical and Computer Engineering Applications (ECEN 754)**
+
     Taught by Professor [P R Kumar](https://engineering.tamu.edu/electrical/profiles/pkumar.html),
-    
+
     Texas A&M University, College Station,
-    
+
     August 2014 - December 2014,
-    
+
     [Syllabus](https://catalog.tamu.edu/graduate/course-descriptions/ecen/)
 
 <br>
 
-- **Stochastic Systems (ECEN 755)**
-  
+-   **Stochastic Systems (ECEN 755)**
+
     Taught by Professor [P R Kumar](https://engineering.tamu.edu/electrical/profiles/pkumar.html),
-    
+
     Texas A&M University, College Station,
-    
+
     August 2014 - December 2014,
-    
+
     [Syllabus](https://catalog.tamu.edu/graduate/course-descriptions/ecen/)
 
 <br>
 
-- **Robust and Optimal Control (ECEN 628)**
+-   **Robust and Optimal Control (ECEN 628)**
 
     Taught by Professor [Shankar P Bhattacharyya](https://people.engr.tamu.edu/spb/index.html),
-    
+
     Texas A&M University, College Station,
-    
+
     January 2014 - May 2014,
-    
+
     [Syllabus](https://catalog.tamu.edu/graduate/course-descriptions/ecen/)
 
 <br>
 
-- **Control Systems Laboratory (ESET 462)**
+-   **Control Systems Laboratory (ESET 462)**
 
     Taught by Professor [Behbood Zoghi](https://zoghi.tamu.edu/about/),
-    
+
     Texas A&M University, College Station,
-    
+
     January 2014 - May 2014,
-    
+
     [Syllabus](https://catalog.tamu.edu/undergraduate/course-descriptions/eset/)
 
 <br>
 
-- **Design of Non-Linear Control Systems (MEEN 655)**
-    
+-   **Design of Non-Linear Control Systems (MEEN 655)**
+
     Taught by Professor [Aaron Ames](http://ames.caltech.edu/),
-    
+
     Texas A&M University, College Station,
-    
+
     January 2014 - May 2014,
-    
-    [Syllabus](https://catalog.tamu.edu/undergraduate/course-descriptions/eset/), 
-    
+
+    [Syllabus](https://catalog.tamu.edu/undergraduate/course-descriptions/eset/),
+
     [Project: Adaptive_Cruise_Control](https://github.com/NV2019/MEEN_655_Adaptive_Cruise_Control.git)
 
 <br>
 
-- **AI for Robotics (CSCE 635)**
-    
+-   **AI for Robotics (CSCE 635)**
+
     Taught by Professor [Robin Murphy](https://people.engr.tamu.edu/robin.r.murphy/index.html),
-    
+
     Texas A&M University, College Station,
-    
+
     August 2013 - December 2013,
-    
+
     [Syllabus](https://people.engr.tamu.edu/robin.r.murphy/635Spring2017syllabus.pdf),
-    
-    [Project: UAV_Crowd_Monitoring](https://github.com/NV2019/UAV_Crowd_Monitoring.git)  
+
+    [Project: UAV_Crowd_Monitoring](https://github.com/NV2019/UAV_Crowd_Monitoring.git)
 
 <br>
 
-- **Modern Control Theory (ECEN 608)**
-    
+-   **Modern Control Theory (ECEN 608)**
+
     Taught by Professor [Aniruddha Datta](https://engineering.tamu.edu/electrical/profiles/adatta.html),
-    
+
     Texas A&M University, College Station,
-    
+
     August 2013 - December 2013,
-    
+
     [Syllabus](https://catalog.tamu.edu/graduate/course-descriptions/ecen/)

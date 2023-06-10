@@ -30,7 +30,7 @@ website:
       text: Contact me
       href: mailto:nvedam@nus.edu.sg
   page-footer:
-    left: "Narayani Vedam, 2023. Powered by Quarto."
+    right: "Narayani Vedam, 2023. Powered by Quarto."
 format:
   html:
     twitter-card:
