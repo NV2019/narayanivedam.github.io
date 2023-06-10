@@ -1,9 +1,40 @@
 ---
-title: "About"
+class: text-left
+title: "Research Assistance"
 ---
 
-About this site
+<br>
 
-```{r}
-1 + 1
-```
+1. **Graduate Research Assistant**,
+
+    Worked for Michael Manser,
+    
+    Texas A&M Transportation Institute, College Station,
+    
+    March 2015 - August 2015.
+    
+    *Worked on collecting driver-data through the use of a smartphone, and provide suitable alerts to the driver based on the same.*
+    
+<br>
+
+2. **Graduate Research Assistant**,
+
+    Worked for Professor [Reza Langari](https://engineering.tamu.edu/mechanical/profiles/langari-reza.html),
+    
+    Texas A&M University, College Station,
+    
+    May 2014 - August 2014.
+
+    _Worked on integrating hardware accessories like the steering wheel, gas pedal and brakes with the simulation set-up._ 
+
+<br>
+
+3. **Graduate Research Assistant**,
+
+    Worked for Professor [Shankar P Bhattacharyya](https://people.engr.tamu.edu/spb/index.html),
+    
+    Texas A&M University, College Station,
+    
+    January 2014 - May 2014.
+
+    _Proposed a novel approach for determining controller gains of an automotive cruise controller. Used the method of signatures to determine a set of stabilizing gains for regulating speed. Implemented a least-squares algorithm, which determines appropriate gains from the stabilizing set based on specified performance indices. Published the work titled, "A novel approach to the design of controllers in an automotive cruise-control system.", in IECON'14._

@@ -1,19 +1,49 @@
 project:
   type: website
-
+output-dir: docs
 website:
-  title: "narayanivedam.github.io"
+  title: "Narayani Vedam"
+  site-url: https://www.narayanivedam.github.io/docs/
+  description: "My academic website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    - text: Course
+      href: course.qmd
+    - text: Teaching
+      href: teaching.qmd
+    - text: Research
+      href: about.qmd
+    right:
+    - icon: ai-google-scholar ai
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=8Wxq4kIAAAAJ&hl=en&inst=3212728378801010220&oi=ao
+    - icon: github
+      text: Github
+      href: https://github.com/NV2019
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ennnvvy
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/narayani-vedam-9135a1185/
+    - icon: envelope
+      text: Contact me
+      href: mailto:nvedam@nus.edu.sg
+  page-footer:
+    left: "Narayani Vedam, 2023. Powered by Quarto."
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    twitter-card:
+      creator: "@ennnvvy"
+      image: "images/profile.png"
+      card-style: summary_large_image
     toc: true
-
-editor: visual
-
+    toc-location: "left"
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    fontsize: 1em
+    theme: spacelab
+    css: "style.css"
