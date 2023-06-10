@@ -1,6 +1,6 @@
 project:
   type: website
-output-dir: docs
+  output-dir: doc
 website:
   title: "Narayani Vedam"
   site-url: https://www.narayanivedam.github.io/docs/
