@@ -14,10 +14,9 @@ website:
       href: teaching.qmd
     - text: Research
       href: about.qmd
-    right:
-    - icon: ai-google-scholar ai
-      text: Google Scholar
+    - text: Publications
       href: https://scholar.google.com/citations?user=8Wxq4kIAAAAJ&hl=en&inst=3212728378801010220&oi=ao
+    right:
     - icon: github
       text: Github
       href: https://github.com/NV2019
