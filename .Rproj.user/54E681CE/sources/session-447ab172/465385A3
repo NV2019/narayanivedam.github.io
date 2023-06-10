@@ -12,20 +12,20 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,28",
+        "cursorPosition": "13,0",
         "scrollLine": "0",
-        "rmdVisualMode": "true",
-        "rmdVisualModeLocation": "2:6",
+        "rmdVisualMode": "false",
+        "rmdVisualModeLocation": "56:6",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1686393799,
+    "lastKnownWriteTime": 1686395397,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1686393799023,
+    "last_content_update": 1686395397835,
     "read_only": false,
     "read_only_alternatives": []
 }
