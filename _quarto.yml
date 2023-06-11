@@ -5,7 +5,10 @@ website:
   title: "Narayani Vedam"
   site-url: https://www.narayanivedam.github.io/docs/
   description: "My academic website"
-
+  google-analytics:
+    tracking-id: "G-XXXXXXX"
+    anonymize-ip: true
+  favicon: wave
   navbar:
     left:
     - text: Course
@@ -31,7 +34,7 @@ website:
       href: mailto:nvedam@nus.edu.sg
 
   page-footer:
-    right: "Narayani Vedam, 2023."
+    right: "Narayani Vedam, 2023. This website was built with Quarto."
 format:
   html:
     twitter-card:
